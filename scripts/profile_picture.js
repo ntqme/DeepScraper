@@ -40,6 +40,7 @@ function getRoundedImages() {
     return sortImgBySize(roundedParentImages);
 }
 
+// Decrease the size of the image to later store it in the database
 function resizeImage(img, x) {
     // Create a canvas element in memory
     var canvas = document.createElement('canvas');
