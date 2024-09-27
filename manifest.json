@@ -1,0 +1,27 @@
+{
+  "name": "IG Reels Collector",
+  "description": "Enables efficient data collection on Instagram reels, overcoming common data access challenges.",
+  "version": "0.3",
+  "permissions": [
+    "tabs",
+    "scripting",
+    "activeTab", 
+    "storage"
+  ],
+  "host_permissions": [
+    "*://*/*"
+  ],
+  "background": {
+    "service_worker": "service_worker.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Instagram Data Extension"
+  },
+  "icons": {
+    "16": "images/InstagramReel.png",
+    "48": "images/InstagramReel.png",
+    "128": "images/InstagramReel.png"
+  },
+  "manifest_version": 3
+}
