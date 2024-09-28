@@ -1,6 +1,6 @@
 # Deep Scraper
 
-# Table of Contents
+## Table of Contents
 1. [Concise Description](#concise-description)
 2. [Motivations](#motivations)
     - [1. Limitations of Traditional Scraping Methods](#1-limitations-of-traditional-scraping-methods)
