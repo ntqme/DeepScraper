@@ -48,11 +48,14 @@ Deep Scraper includes:
 Both components remain private at this time.
 
 #### Visual Demonstrations
+
+#### Efficient Instagram Scraping
 ![Efficient Instagram Scraping](images/demo/ReelCollection.gif)
 - In this video, the user scrapes 10 reels from Dua Lipa’s Instagram page. 
 - The process is initiated through the UI, carried out by the Chrome extension, and completed by the server within seconds. 
 - So far, we've consistently gathered large amounts of data without encountering any limits, as shown by the large quantity of data displayed on the UI.
 
+#### Reel Analysis
 ![Reel Analysis](images/demo/ReelAnalysis.gif)
 In this video, the user pastes a reel URL to obtain all its metadata, including:
 - Comments
