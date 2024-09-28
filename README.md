@@ -1,7 +1,20 @@
 # Deep Scraper
 
-
-# Deep Scraper
+# Table of Contents
+1. [Concise Description](#concise-description)
+2. [Motivations](#motivations)
+    - [1. Limitations of Traditional Scraping Methods](#1-limitations-of-traditional-scraping-methods)
+    - [2. Scraping Valuable Data from Complex Websites](#2-scraping-valuable-data-from-complex-websites)
+3. [Proposed Solution](#proposed-solution)
+4. [Project's Code](#projects-code)
+    - [1. Publicly Available Code](#1-publicly-available-code)
+    - [2. Overall Project Overview](#2-overall-project-overview)
+5. [Visual Demonstrations](#visual-demonstrations)
+    - [Efficient Instagram Scraping](#efficient-instagram-scraping)
+    - [Reel Analysis](#reel-analysis)
+6. [Contributions](#contributions)
+7. [Disclaimer](#disclaimer)
+8. [License](#license)
 
 ## Concise Description
 **Deep Scraper** is a Chrome Extension designed for **efficient and unrestricted** web scraping.
