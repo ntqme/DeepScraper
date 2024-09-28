@@ -47,7 +47,7 @@ Deep Scraper includes:
 - A server for handling data collection.
 Both components remain private at this time.
 
-#### Visual Demonstrations
+### Visual Demonstrations
 
 ##### Efficient Instagram Scraping
 ![Efficient Instagram Scraping](images/demo/ReelCollection.gif)
