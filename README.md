@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="images/DeepSraperIcon.png" alt="Deep Sraper Ico" style="width:140px;border-radius: 12px;"/>
+  <img src="images/DeepSraperIcon.png" alt="Deep Sraper Ico" style="width:120px;height:120px;border-radius: 12px;"/>
 </div>
 
 # Deep Scraper
